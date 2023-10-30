@@ -12,3 +12,6 @@ source nlp/bin/activate
 ```
 
 ## Content:
+- Lab1: Preprocessing Tweets for Sentiment Analysis
+- Lab2: Building and Visualizing word frequencies
+
